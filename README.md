@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hello there 👋
+### My name is Zayniddin, an enthusiastic web delevoper💻 and intellectual book reader📕
+
+#### I’m currently:
+- 🖥 learning core JavaScript and Node.js backend development;
+- 📘 reading different books;
+- ⚡ and many more
+
 
 <!--
 **Zayniddin602/Zayniddin602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
